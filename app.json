@@ -5,12 +5,16 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "primaryColor": "#F3CBB6",
     "splash": {
-      "backgroundColor": "#ffffff",
+      "backgroundColor": "#F3CBB6",
       "resizeMode": "contain"
     },
     "assetBundlePatterns": [
       "**/*"
+    ],
+    "fonts": [
+      "assets/fonts/font.ttf"
     ],
     "ios": {
       "supportsTablet": true,
@@ -18,7 +22,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#F3CBB6"
       },
       "package": "com.side.app"
     },
